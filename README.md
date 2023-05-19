@@ -2,8 +2,11 @@
 
 Бот написан на языке программирования Python с использованием следующих пакетов:
 > aiosqlite
+
 > disnake
+
 > glQiwiApi
+
 > yadisk
 
 Версия Python 3.8++
